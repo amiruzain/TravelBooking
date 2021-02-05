@@ -1,0 +1,274 @@
+[15-Sep-2017 04:14:54 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 100000 AND 
+[15-Sep-2017 04:14:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 150000 AND 
+[15-Sep-2017 04:20:48 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 3 AND 
+[15-Sep-2017 04:20:48 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 30 AND 
+[15-Sep-2017 04:20:48 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 300 AND 
+[15-Sep-2017 04:20:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 30 AND 
+[15-Sep-2017 04:20:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 3 AND 
+[15-Sep-2017 04:20:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 
+[15-Sep-2017 04:20:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 5 AND 
+[15-Sep-2017 04:20:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 50 AND 
+[15-Sep-2017 04:20:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 500 AND 
+[15-Sep-2017 04:20:52 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 5000 AND 
+[15-Sep-2017 04:20:53 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 50000 AND 
+[15-Sep-2017 04:20:53 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 500000 AND 
+[15-Sep-2017 04:20:54 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 500000 AND 
+[15-Sep-2017 04:21:06 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND 1000000' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 1000000
+[15-Sep-2017 04:22:25 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 100000 AND 
+[15-Sep-2017 04:22:26 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 150000 AND 
+[15-Sep-2017 04:22:29 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 750000 AND 
+[15-Sep-2017 04:22:33 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 1000000 AND 
+[15-Sep-2017 04:30:53 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 5 AND 
+[15-Sep-2017 04:30:53 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 500 AND 
+[15-Sep-2017 04:30:53 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 5000 AND 
+[15-Sep-2017 04:30:53 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 50 AND 
+[15-Sep-2017 04:30:53 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 50000 AND 
+[15-Sep-2017 04:30:54 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 500000 AND 
+[15-Sep-2017 04:30:56 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 500000 AND 
+[15-Sep-2017 05:15:23 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 100000 AND 
+[15-Sep-2017 05:15:23 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 150000 AND 
+[15-Sep-2017 05:15:23 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 200000 AND 
+[15-Sep-2017 05:15:24 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 250000 AND 
+[15-Sep-2017 05:15:24 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 300000 AND 
+[15-Sep-2017 05:15:24 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 350000 AND 
+[15-Sep-2017 06:08:16 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 
+[15-Sep-2017 06:31:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 100000 AND 
+[15-Sep-2017 06:31:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 150000 AND 
+[15-Sep-2017 06:31:51 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 200000 AND 
+[15-Sep-2017 06:31:51 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 250000 AND 
+[15-Sep-2017 06:36:54 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 100000 AND 
+[15-Sep-2017 06:36:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 150000 AND 
+[15-Sep-2017 06:43:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 3 AND 
+[15-Sep-2017 06:43:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 30 AND 
+[15-Sep-2017 06:43:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 300 AND 
+[15-Sep-2017 06:43:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 3000 AND 
+[15-Sep-2017 06:43:02 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 30000 AND 
+[15-Sep-2017 06:43:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 300000 AND 
+[15-Sep-2017 06:43:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 300000 AND 
+[15-Sep-2017 22:42:02 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 
+[18-Sep-2017 02:43:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 
+[20-Sep-2017 03:43:48 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 100000 AND 
+[20-Sep-2017 03:43:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 150000 AND 
+[20-Sep-2017 03:43:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 200000 AND 
+[20-Sep-2017 03:43:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 250000 AND 
+[20-Sep-2017 03:43:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 300000 AND 
+[20-Sep-2017 03:43:51 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 350000 AND 
+[22-Sep-2017 00:59:37 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 2 AND 
+[22-Sep-2017 00:59:39 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 20 AND 
+[22-Sep-2017 00:59:39 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 200 AND 
+[22-Sep-2017 00:59:41 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 20 AND 
+[22-Sep-2017 00:59:41 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 2 AND 
+[22-Sep-2017 00:59:43 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 
+[22-Sep-2017 00:59:43 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 3 AND 
+[22-Sep-2017 00:59:43 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 30 AND 
+[22-Sep-2017 00:59:43 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 300 AND 
+[22-Sep-2017 00:59:45 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 3000 AND 
+[22-Sep-2017 00:59:45 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 30000 AND 
+[22-Sep-2017 00:59:45 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 300000 AND 
+[22-Sep-2017 00:59:48 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 30000 AND 
+[22-Sep-2017 00:59:48 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 3000 AND 
+[22-Sep-2017 00:59:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 300 AND 
+[22-Sep-2017 00:59:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 30 AND 
+[22-Sep-2017 00:59:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 3 AND 
+[22-Sep-2017 00:59:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 3 AND 
+[22-Sep-2017 00:59:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 3 AND 
+[22-Sep-2017 00:59:54 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 
+[22-Sep-2017 00:59:54 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 00:59:54 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 40 AND 
+[22-Sep-2017 00:59:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 400 AND 
+[22-Sep-2017 00:59:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4000 AND 
+[22-Sep-2017 00:59:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 40000 AND 
+[22-Sep-2017 00:59:56 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 400000 AND 
+[22-Sep-2017 00:59:59 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 40000 AND 
+[22-Sep-2017 00:59:59 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4000 AND 
+[22-Sep-2017 00:59:59 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 400 AND 
+[22-Sep-2017 00:59:59 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 40 AND 
+[22-Sep-2017 00:59:59 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 00:59:59 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 00:59:59 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:05 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:05 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:05 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:05 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:05 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:05 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 4 AND 
+[22-Sep-2017 01:00:06 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 
+[22-Sep-2017 01:00:06 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 1 AND 
+[22-Sep-2017 01:00:06 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 10 AND 
+[22-Sep-2017 01:00:07 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 100 AND 
+[22-Sep-2017 01:00:07 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 1000 AND 
+[22-Sep-2017 01:00:07 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 10000 AND 
+[22-Sep-2017 01:00:07 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 100000 AND 
+[22-Sep-2017 01:00:07 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 1000000 AND 
+[22-Sep-2017 01:00:08 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 10000000 AND 
+[22-Sep-2017 01:00:09 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 100000000 AND 
+[22-Sep-2017 01:00:11 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 10000000 AND 
+[22-Sep-2017 01:00:11 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 1000000 AND 
+[22-Sep-2017 01:00:11 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 100000 AND 
+[22-Sep-2017 01:00:11 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 10000 AND 
+[22-Sep-2017 01:00:12 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 1000 AND 
+[22-Sep-2017 01:00:12 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 100 AND 
+[22-Sep-2017 01:00:12 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 10 AND 
+[22-Sep-2017 01:00:13 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN 1 AND 
+[22-Sep-2017 01:00:13 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 
+[22-Sep-2017 01:00:13 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 
+[22-Sep-2017 01:00:13 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 
+[22-Sep-2017 01:00:15 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND 1' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 1
+[22-Sep-2017 01:00:15 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND 10' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 10
+[22-Sep-2017 01:00:15 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND 100' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 100
+[22-Sep-2017 01:00:15 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND 1000' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 1000
+[22-Sep-2017 01:00:15 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND 10000' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 10000
+[22-Sep-2017 01:00:15 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND 100000' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 100000
+[22-Sep-2017 01:00:16 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND 1000000' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 1000000
+[22-Sep-2017 01:00:16 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND 10000000' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 10000000
+[22-Sep-2017 01:00:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND 100000000' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 100000000
+[22-Sep-2017 01:00:18 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND 1000000000' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 1000000000
+[22-Sep-2017 01:00:19 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND 10000000000' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 10000000000
+[22-Sep-2017 01:00:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND 10000000000' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 10000000000
+[06-Oct-2017 17:51:05 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND' at line 2 for query SELECT DISTINCT(id_trip) FROM db_nt_harga_trip
+								WHERE harga BETWEEN  AND 

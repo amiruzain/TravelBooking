@@ -1,0 +1,83 @@
+.booking-table {
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 22px;
+}
+
+.booking-table th.paket-name {
+	width: 40%;
+}
+
+table.booking-table thead th {
+    text-transform: uppercase;
+    padding: 1.41575em;
+    vertical-align: middle;
+    font-weight: 900;
+}
+
+table.booking-table th {
+    background-color: #f8f8f8;
+}
+
+table.booking-table tbody td {
+    background-color: #fdfdfd;
+}
+
+table.booking-table td, table.booking-table th {
+    padding: 1em 1.41575em;
+    text-align: left;
+    vertical-align: top;
+}
+
+.title-booking-transfer {
+    background-color: #f8f8f8;
+    text-transform: uppercase;
+    padding: 1.41575em;
+    vertical-align: middle;
+    font-weight: 900;
+}
+
+.content-booking-transfer {
+    background-color: #fdfdfd;
+    padding: 1em 1.41575em;
+    text-align: left;
+    vertical-align: top;
+}
+
+.booking-order .loader-wrap {
+	padding-bottom: 20px;
+}
+
+.booking-order .loader {
+    width: 26px;
+    display: block;
+    margin: auto;
+	padding-bottom: 20px;
+}
+
+.booking-transfer {
+    margin-bottom: 20px;
+}
+
+.show-trip .loader-wrap {
+	padding-bottom: 20px;
+}
+
+.show-trip .loader {
+    width: 26px;
+    display: block;
+    margin: auto;
+	padding-bottom: 10px;
+}
+
+.start-color {
+	color: #ffae00;
+}
+
+.until-color {
+	color: #00a9ff;
+}
+
+.margin-top-20 {
+	margin-top: 20px;
+}
